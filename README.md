@@ -10,12 +10,11 @@ A small primary care healthcare clinic in the US suffered a security incident on
 * **Response:** Systems were shut down, and external incident response support was engaged.
 
 ## 📂 Project Structure
-- `incident_report.html` — The polished, professional PDF-ready incident report structured according to industry standards.
+- `Incident Handler's Journal - Healthcare Ransomware Incident.pdf` — The polished, professional PDF-ready incident report structured according to industry standards.
 - `README.md` — Project documentation.
 
 ## 🛠 Key Learnings & Skills Demonstrated
 - Documenting security incidents using structured frameworks (The 5 W's: Who, What, Where, When, Why).
-- Differentiating between confirmed operational facts and speculative assumptions during initial triage.
 - Formulating strategic remediation and prevention questions for healthcare cybersecurity compliance.
 
 ---
